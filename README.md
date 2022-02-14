@@ -17,3 +17,9 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 I have not created any tests, though I have modified the auto-generated tests to fit this app. You can run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
+
+![Angular Todo List](https://user-images.githubusercontent.com/78354357/153797662-c006d584-edbf-42f5-90a7-3fbd330c863e.gif)
+
+
+
+
